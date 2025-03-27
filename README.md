@@ -12,9 +12,13 @@
 
 3. Закупка компонентов
    Esp32 +- 300р (https://aliexpress.ru/item/1005008644023249.html?sku_id=12000046073762862&spm=a2g2w.productlist.search_results.2.2dd54037R84wJ4)
+   
    Реле +- 50р (https://aliexpress.ru/item/1005007430142528.html?sku_id=12000040725647432&spm=a2g2w.productlist.search_results.1.35fc6eebXY8sTV)
+   
    bmp180 +- 50р (https://aliexpress.ru/item/1005007932330911.html?sku_id=12000042920153584&spm=a2g2w.productlist.search_results.0.5df95baflaGzrH)
+   
    dht11 или dht22 +-50р советую брать без модуля просто голый датччик (https://aliexpress.ru/item/1005008593539984.htmlsku_id=12000045873045875&spm=a2g2w.productlist.search_results.3.24074078fZHCaw)
+
    Пожалуй самое дорогое это сам увлажнитель можно найти вариант как и за 100 рублей так и за 3000 рублей. Главное чтобы в нем было много места внутри подо все модули.
    
 
