@@ -1,4 +1,4 @@
-Сзема подключения:
+Схема подключения:
 
 
 ![image](https://github.com/user-attachments/assets/17488b49-b213-48f0-9719-9811b3e67891)
